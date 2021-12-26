@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Styled-Components-Practice/static/css/main.c632e6f4.chunk.css",
+    "main.js": "/Styled-Components-Practice/static/js/main.2d04ff9a.chunk.js",
+    "main.js.map": "/Styled-Components-Practice/static/js/main.2d04ff9a.chunk.js.map",
+    "runtime-main.js": "/Styled-Components-Practice/static/js/runtime-main.991aacef.js",
+    "runtime-main.js.map": "/Styled-Components-Practice/static/js/runtime-main.991aacef.js.map",
+    "static/js/2.230ce298.chunk.js": "/Styled-Components-Practice/static/js/2.230ce298.chunk.js",
+    "static/js/2.230ce298.chunk.js.map": "/Styled-Components-Practice/static/js/2.230ce298.chunk.js.map",
+    "index.html": "/Styled-Components-Practice/index.html",
+    "static/css/main.c632e6f4.chunk.css.map": "/Styled-Components-Practice/static/css/main.c632e6f4.chunk.css.map",
+    "static/js/2.230ce298.chunk.js.LICENSE.txt": "/Styled-Components-Practice/static/js/2.230ce298.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.991aacef.js",
+    "static/js/2.230ce298.chunk.js",
+    "static/css/main.c632e6f4.chunk.css",
+    "static/js/main.2d04ff9a.chunk.js"
+  ]
+}
